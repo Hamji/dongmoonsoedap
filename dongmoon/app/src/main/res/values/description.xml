@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str1">안녕하세요. 동문서답을 플레이 해 주셔서 감사합니다. </string>
+    <string name="str2">동문서답은 여러 명이 책상에 둘러앉아 하나의 기기로 즐길 수 있는 게임입니다.</string>
+    <string name="str3">본 게임은 여러 명 중 다른 주제를 말하고 있는 단 한 명을 지목하는 게임입니다. </string>
+    <string name="str4"> </string>
+    <string name="str5">플레이 방법은 아래와 같습니다.</string>
+    <string name="str6"> </string>
+    <string name="str7">1. 인원 수를 설정합니다. [최대 5명]</string>
+    <string name="str8">2. 라운드를 설정합니다. [최대 4라운드]</string>
+    <string name="str9">3. 서로 가위바위보를 시작하는 사람부터 시계방향으로 게임을 시작합니다.</string>
+    <string name="str10">4. 첫번째 순번의 사람은 화면에 나타난 단어를 봅니다. 봤다면 확인 버튼을 눌러 다음 사람에게 보내줍니다.</string>
+    <string name="str11">5. 그 다음 사람은 단어 보기 버튼을 눌러 단어를 보고 확인 버튼을 누르고 다음 사람에게 건내줍니다.</string>
+    <string name="str12">6. 모든 사람이 봤다면 기기를 가운데에 두고 서로 자신의 주제에 대해서 이야기를 나눕니다. (시간 제한은 없습니다.)</string>
+    <string name="str14">7. 모두 이야기가 끝났다면 주제가 다르다고 생각한 사람을 지목해주세요.</string>
+    <string name="str15">8. 버튼을 눌러 정답을 확인합니다.</string>
+    <string name="str16">9. 만약 주제가 다른 한 사람을 찾는다면 주제가 다른 사람을 제외한 사람들은 1점씩을 획득하게 됩니다.</string>
+    <string name="str17">10. 만약 찾지 못했다면 주제가 다른 한 사람은 2점을 획득하고 나머지 사람은 점수를 획득하지 못합니다.</string>
+    <string name="str18"></string>
+    <string name="str19">그럼 게임을 즐겨주세요!</string>
+    <string name="str20"></string>
+    <string name="str21"></string>
+    <string name="str22"></string>
+    <string name="str23"></string>
+
+
+
+
+</resources>
